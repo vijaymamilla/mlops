@@ -1,0 +1,4 @@
+[core]
+    remote = my-local
+['remote "my-local"']
+    url = /Users/hadoop/ml2/tmp/dvcstore
